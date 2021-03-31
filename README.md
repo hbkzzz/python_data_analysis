@@ -1,6 +1,6 @@
-# Python Data Analysis
+# Python Data Analytics
 > Python
->> Data Analysis
+>> Data Analytics
 >>> Machine Learning
 ## 파이썬이란 무엇인가?
 파이썬(영어: Python)은 1991년 프로그래머인 귀도 반 로섬이 발표한 고급 프로그래밍 언어로, 플랫폼에 독립적이며 인터프리터식, 객체지향적, 동적 타이핑(dynamically typed) 대화형 언어이다. 
